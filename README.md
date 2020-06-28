@@ -1,5 +1,7 @@
 # Quotes App Using Flutter
 This is a Bengali quotes app created by using Flutter.
+# Android apk available in Google Playstore
+https://play.google.com/store/apps/details?id=com.mohammadsaif.bangla_quotes
 
 <img src="screenshot/QoutesApp1.jpg" width=400><img src="screenshot/QuotesApp2.jpg" width=400>
 <img src="screenshot/QoutesApp3.jpg" width=400><img src="screenshot/QuotesApp4.jpg" width=400>
